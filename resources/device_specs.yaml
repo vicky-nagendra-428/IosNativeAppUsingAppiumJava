@@ -1,0 +1,21 @@
+iPhone_8_Plus:
+
+  DeviceName : iPhone 8 Plus
+  DeviceId : F59C3232-0614-4CD7-923F-4481F58F6490
+  App : /Users/nagendraa/Nagendra/preparationDocs/apps/TestApp.app
+  PlatformVersion : 11.2
+  PlatformName : iOS
+  bundleId : io.appium.TestApp
+  PortNumber : 4723
+  WdaPort : 8100
+
+iPhone_X:
+
+  DeviceName : iPhone X
+  DeviceId : 1BB29D3C-BB17-42FF-A3C2-48070E2894D8
+  App : /Users/nagendraa/Nagendra/preparationDocs/apps/TestApp.app
+  PlatformVersion : 11.2
+  PlatformName : iOS
+  bundleId : io.appium.TestApp
+  PortNumber : 4724
+  WdaPort : 8101
